@@ -1,0 +1,6 @@
+﻿ToDo
+----
+
+Show remaining letter count in bag
+
+Optimise solver

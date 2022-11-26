@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabbleSolver", "ScrabbleSolver\ScrabbleSolver.csproj", "{E0436F2E-0AD9-4E6A-85CB-48D512A60078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabbleTests", "ScrabbleTests\ScrabbleTests.csproj", "{FB08C81E-94DF-4DFF-BFC4-81AA28D8EBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0436F2E-0AD9-4E6A-85CB-48D512A60078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0436F2E-0AD9-4E6A-85CB-48D512A60078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0436F2E-0AD9-4E6A-85CB-48D512A60078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0436F2E-0AD9-4E6A-85CB-48D512A60078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB08C81E-94DF-4DFF-BFC4-81AA28D8EBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB08C81E-94DF-4DFF-BFC4-81AA28D8EBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB08C81E-94DF-4DFF-BFC4-81AA28D8EBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB08C81E-94DF-4DFF-BFC4-81AA28D8EBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D405DB-6E5F-4008-B555-D2B16374DC2F}
+	EndGlobalSection
+EndGlobal
